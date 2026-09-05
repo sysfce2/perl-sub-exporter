@@ -1,6 +1,8 @@
 Revision history for Sub-Exporter
 
 {{$NEXT}}
+
+0.992     2026-09-05 16:47:10+09:30 Australia/Adelaide
         - replace Params::Util with Params::SomeUtil
         - docs: fix typo in tutorial (thanks, Kıvanç Yazan!)
 
